@@ -1,6 +1,18 @@
 # test-task-for-vk-workspace
 
-Требуется написать API для простого блога
+###Run project
+```
+- create and activate virtualenv
+- pip install -r requirements.txt
+- make initial
+- make run
+```
+###Linters
+```
+- make lint
+```
+
+##Требуется написать API для простого блога
 March 16, 2022
 
 Сущности:
